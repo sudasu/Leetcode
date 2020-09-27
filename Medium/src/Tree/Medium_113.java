@@ -4,8 +4,6 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-import Tree.Medium_106.TreeNode;
-
 public class Medium_113 {
 	class TreeNode{
 		int val;
